@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Build a fantastic blog in Drupal 8 | Ravi Saga</title>
-    <link>https://stupefied-ritchie-e4d002.netlify.com/tags/hugo/</link>
-    <description>Recent content in Hugo on Build a fantastic blog in Drupal 8 | Ravi Saga</description>
+    <title>Hugo on Build a fantastic blog in Drupal 8</title>
+    <link>https://drupal.ravi.pro/tags/hugo/</link>
+    <description>Recent content in Hugo on Build a fantastic blog in Drupal 8</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://stupefied-ritchie-e4d002.netlify.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drupal.ravi.pro/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to add pages to the menu</title>
-      <link>https://stupefied-ritchie-e4d002.netlify.com/2015/10/02/how-to-add-pages-to-the-menu/</link>
+      <link>https://drupal.ravi.pro/2015/10/02/how-to-add-pages-to-the-menu/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://stupefied-ritchie-e4d002.netlify.com/2015/10/02/how-to-add-pages-to-the-menu/</guid>
+      <guid>https://drupal.ravi.pro/2015/10/02/how-to-add-pages-to-the-menu/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  </description>
     </item>

@@ -1,6 +1,6 @@
 baseurl = "https://drupal.ravi.pro/"
 languageCode = "en-us"
-title = "Build a fantastic blog in Drupal 8 | Ravi Saga"
+title = "Build a fantastic blog in Drupal 8"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "ravisagar"
 # Enable Google Analytics by entering your tracking code
