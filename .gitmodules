@@ -1,0 +1,6 @@
+[submodule "hugo-icarus-theme"]
+	path = hugo-icarus-theme
+	url = https://github.com/digitalcraftsman/hugo-icarus-theme
+[submodule "themes/hugo-icarus-theme"]
+	path = themes/hugo-icarus-theme
+	url = https://github.com/digitalcraftsman/hugo-icarus-theme
