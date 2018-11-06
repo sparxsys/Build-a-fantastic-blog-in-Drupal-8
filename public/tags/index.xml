@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Build a fantastic blog in Drupal 8</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 06 Nov 2018 17:07:49 +0000</lastBuildDate>
     
 	<atom:link href="https://drupal.ravi.pro/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drupal</title>
+      <link>https://drupal.ravi.pro/tags/drupal/</link>
+      <pubDate>Tue, 06 Nov 2018 17:07:49 +0000</pubDate>
+      
+      <guid>https://drupal.ravi.pro/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://drupal.ravi.pro/tags/programming/</link>
+      <pubDate>Tue, 06 Nov 2018 17:07:49 +0000</pubDate>
+      
+      <guid>https://drupal.ravi.pro/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://drupal.ravi.pro/tags/tutorial/</link>
+      <pubDate>Tue, 06 Nov 2018 17:07:49 +0000</pubDate>
+      
+      <guid>https://drupal.ravi.pro/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

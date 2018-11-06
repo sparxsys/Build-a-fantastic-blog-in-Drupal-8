@@ -6,9 +6,28 @@
     <description>Recent content on Build a fantastic blog in Drupal 8</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 06 Nov 2018 17:07:49 +0000</lastBuildDate>
     
 	<atom:link href="https://drupal.ravi.pro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Checking Site</title>
+      <link>https://drupal.ravi.pro/2018/11/06/checking-site/</link>
+      <pubDate>Tue, 06 Nov 2018 17:07:49 +0000</pubDate>
+      
+      <guid>https://drupal.ravi.pro/2018/11/06/checking-site/</guid>
+      <description>It has been 3 months since I first setup this site. My plan was and still is to create a dedicated resource for Drupal learning.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://drupal.ravi.pro/2018/07/20/welcome/</link>
+      <pubDate>Fri, 20 Jul 2018 20:58:53 +0100</pubDate>
+      
+      <guid>https://drupal.ravi.pro/2018/07/20/welcome/</guid>
+      <description>Long back in 2011 I wrote on book in Drupal. My objective was not to write a book to talk about teaching Drupal functionality but more about talking about a specific use case. Many people have asked me that whether we should be using Drupal for building a blog instead of Wordpress. Well the answer is based on my personal bias towards Drupal. Wordpress is definitely a great CMS for building a blog but if you want to build a career in Drupal and want to learn to make bigger and more complex site than first step is to use it for simple sites like a blog.</description>
+    </item>
     
   </channel>
 </rss>

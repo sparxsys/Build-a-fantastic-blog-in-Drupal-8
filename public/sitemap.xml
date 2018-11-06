@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drupal.ravi.pro/2018/11/06/checking-site/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drupal.ravi.pro/2018/07/20/welcome/</loc>
+    <lastmod>2018-07-20T20:58:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drupal.ravi.pro/about/</loc>
     <lastmod>2017-05-19T21:49:20+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://drupal.ravi.pro/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -18,7 +29,44 @@
   </url>
   
   <url>
+    <loc>https://drupal.ravi.pro/tags/drupal/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drupal.ravi.pro/categories/drupal/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drupal.ravi.pro/post/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drupal.ravi.pro/tags/programming/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drupal.ravi.pro/categories/programming/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://drupal.ravi.pro/tags/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drupal.ravi.pro/tags/tutorial/</loc>
+    <lastmod>2018-11-06T17:07:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   

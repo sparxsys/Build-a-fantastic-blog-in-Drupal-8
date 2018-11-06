@@ -10,5 +10,23 @@
 	<atom:link href="https://drupal.ravi.pro/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Drupal</title>
+      <link>https://drupal.ravi.pro/categories/drupal/</link>
+      <pubDate>Tue, 06 Nov 2018 17:07:49 +0000</pubDate>
+      
+      <guid>https://drupal.ravi.pro/categories/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://drupal.ravi.pro/categories/programming/</link>
+      <pubDate>Tue, 06 Nov 2018 17:07:49 +0000</pubDate>
+      
+      <guid>https://drupal.ravi.pro/categories/programming/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
